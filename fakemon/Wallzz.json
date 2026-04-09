@@ -23,8 +23,8 @@
       "desc": "Makes the opponent feel pain after they hit, because it hurts to hit a wall. Has a chance to increase DEF",
       "speed": "slow",
       "damage": [7, 12],
-      "status": "defense",
-      "statusChance": 0.7
+      "status": null,
+      "statusChance": 0
     },
 
     
