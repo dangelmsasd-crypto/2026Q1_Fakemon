@@ -52,7 +52,7 @@
       "speed": "medium",
       "damage": [0, 65],
       "status": "poison",
-      "statusChance": .5
+      "statusChance": 0.5
     }
 
   ]
