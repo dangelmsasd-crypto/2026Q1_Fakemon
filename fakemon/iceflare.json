@@ -87,7 +87,7 @@
 
     {
       "id": "recover",
-      "name": "💊 Recover",
+      "name": "Melt",
       "desc": "Restore HP.",
       "speed": "slow",
       "damage": [-200, -375],
