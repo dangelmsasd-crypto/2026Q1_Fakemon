@@ -24,7 +24,7 @@
       "speed": "fast",
       "damage": [-25, -40],
       "status": "statup",
-      "statusChance": 0.8
+      "statusChance": 0.9
     },
 
     
@@ -33,7 +33,7 @@
       "name": "GAMBLING TIME",
       "desc": "Totallynotrigged..... (wink, wink)",
       "speed": "medium",
-      "damage": [-50, 95],
+      "damage": [-80, 90],
       "status": "burn",
       "statusChance": 0.4
     },
@@ -44,9 +44,9 @@
       "name": "Revovery",
       "desc": "You need time to recover your finacial and mental health.",
       "speed": "slow",
-      "damage": [-10, -20],
+      "damage": [-15, -30],
       "status": "statdwn",
-      "statusChance": 0.65
+      "statusChance": 0.7
     }
    
   ]

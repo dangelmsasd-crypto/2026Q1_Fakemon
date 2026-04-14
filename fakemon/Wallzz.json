@@ -47,8 +47,17 @@
       "damage": [-25, -35],
       "status": null,
       "statusChance": 0
-    }
+    },
 
+    {
+      "id": "Stronk",
+      "name": "Tuff",
+      "desc": "This wall is now stronger...",
+      "speed": "meduim",
+      "damage": [-10, 11],
+      "status": "statup",
+      "statusChance": 1.0
+    }
 
    
   ]
