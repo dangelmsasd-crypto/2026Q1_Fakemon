@@ -5,7 +5,7 @@
   "emoji": "🖨️",
   "type": "Metal",
 
-  "hp": 50,
+  "hp": 100,
   "atk": 70,
   "speed": 40,
   "defense": 10,
@@ -43,7 +43,7 @@
     {
       "id": "calibrate",
       "name": "📈 calibrate",
-      "desc": "Narrows eyes and locks in — ATK rises.",
+      "desc": "recalibrate 3d printer-accuracy rise.",
       "speed": "medium",
       "damage": [0, 0],
       "status": "statup",
@@ -81,9 +81,9 @@
     {
       "id": "replace",
       "name": "💊 replace parts",
-      "desc": "Replace all parts of 3d printer dose nothing or fixes everything.",
+      "desc": "Replace all parts of 3d printer fixes all damage... why didnt you just but a new printer?.",
       "speed": "medium",
-      "damage": [-0, -50],
+      "damage": [-100, -100],
       "status": null,
       "statusChance": 0
     },
