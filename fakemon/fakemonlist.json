@@ -44,6 +44,7 @@
     "trashlon",
     "veilmaw",
     "voltusk",
+<<<<<<< HEAD
     "fumewyrm",
     "frostcub",
     "blazkit",
@@ -53,5 +54,9 @@
     "CHEESE",
     "immortal",
     "zachary"
+=======
+    "zachary",
+    "Rhys"
+>>>>>>> origin/main
   ]
 }
